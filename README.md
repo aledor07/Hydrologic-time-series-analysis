@@ -1,4 +1,4 @@
-# Hydrologic-time-series-analysis and forecasting with Prophet and ARIMA models
+# Temporal multiscale study of the performance and predictive capacity of the Prophet algorithm in natural regime watersheds.
 
 Study of the performance and predictive capacity of the Prophet algorithm in natural regime river basins. 
 
